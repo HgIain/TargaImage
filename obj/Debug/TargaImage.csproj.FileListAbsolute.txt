@@ -1,0 +1,20 @@
+M:\Documents and Settings\Dave\My Documents\Visual Studio 2008\Projects\TargaReader\TargaReader\obj\Debug\ResolveAssemblyReference.cache
+M:\Documents and Settings\Dave\My Documents\Visual Studio 2008\Projects\TargaReader\TargaReader\obj\Debug\TargaImage.Resource1.resources
+M:\Documents and Settings\Dave\My Documents\Visual Studio 2008\Projects\TargaReader\TargaReader\obj\Debug\TargaImage.csproj.GenerateResource.Cache
+M:\Documents and Settings\Dave\My Documents\Visual Studio 2008\Projects\TargaReader\TargaReader\bin\Debug\TargaImage.dll
+M:\Documents and Settings\Dave\My Documents\Visual Studio 2008\Projects\TargaReader\TargaReader\bin\Debug\TargaImage.pdb
+M:\Documents and Settings\Dave\My Documents\Visual Studio 2008\Projects\TargaReader\TargaReader\obj\Debug\TargaImage.dll
+M:\Documents and Settings\Dave\My Documents\Visual Studio 2008\Projects\TargaReader\TargaReader\obj\Debug\TargaImage.pdb
+C:\Users\Paloma\Documents\CodeProject\TargaReader\TargaReader\bin\Debug\TargaImage.dll
+C:\Users\Paloma\Documents\CodeProject\TargaReader\TargaReader\bin\Debug\TargaImage.pdb
+C:\Users\Paloma\Documents\CodeProject\TargaReader\TargaReader\obj\Debug\TargaImage.Resource1.resources
+C:\Users\Paloma\Documents\CodeProject\TargaReader\TargaReader\obj\Debug\TargaImage.csproj.GenerateResource.Cache
+C:\Users\Paloma\Documents\CodeProject\TargaReader\TargaReader\obj\Debug\TargaImage.dll
+C:\Users\Paloma\Documents\CodeProject\TargaReader\TargaReader\obj\Debug\TargaImage.pdb
+C:\Users\Sandy\Downloads\TargaImage_src-noexe\bin\Debug\TargaImage.dll
+C:\Users\Sandy\Downloads\TargaImage_src-noexe\bin\Debug\TargaImage.pdb
+C:\Users\Sandy\Downloads\TargaImage_src-noexe\obj\Debug\TargaImage.csprojResolveAssemblyReference.cache
+C:\Users\Sandy\Downloads\TargaImage_src-noexe\obj\Debug\TargaImage.Resource1.resources
+C:\Users\Sandy\Downloads\TargaImage_src-noexe\obj\Debug\TargaImage.csproj.GenerateResource.Cache
+C:\Users\Sandy\Downloads\TargaImage_src-noexe\obj\Debug\TargaImage.dll
+C:\Users\Sandy\Downloads\TargaImage_src-noexe\obj\Debug\TargaImage.pdb

@@ -1,0 +1,15 @@
+M:\Documents and Settings\Dave\My Documents\Visual Studio 2008\Projects\TargaReader\TargaReader\bin\Release\TargaImage.xml
+M:\Documents and Settings\Dave\My Documents\Visual Studio 2008\Projects\TargaReader\TargaReader\bin\Release\TargaImage.dll
+M:\Documents and Settings\Dave\My Documents\Visual Studio 2008\Projects\TargaReader\TargaReader\bin\Release\TargaImage.pdb
+M:\Documents and Settings\Dave\My Documents\Visual Studio 2008\Projects\TargaReader\TargaReader\obj\Release\ResolveAssemblyReference.cache
+M:\Documents and Settings\Dave\My Documents\Visual Studio 2008\Projects\TargaReader\TargaReader\obj\Release\TargaImage.Resource1.resources
+M:\Documents and Settings\Dave\My Documents\Visual Studio 2008\Projects\TargaReader\TargaReader\obj\Release\TargaImage.csproj.GenerateResource.Cache
+M:\Documents and Settings\Dave\My Documents\Visual Studio 2008\Projects\TargaReader\TargaReader\obj\Release\TargaImage.dll
+M:\Documents and Settings\Dave\My Documents\Visual Studio 2008\Projects\TargaReader\TargaReader\obj\Release\TargaImage.pdb
+C:\Users\Paloma\Documents\CodeProject\TargaReader\TargaReader\bin\Release\TargaImage.xml
+C:\Users\Paloma\Documents\CodeProject\TargaReader\TargaReader\bin\Release\TargaImage.dll
+C:\Users\Paloma\Documents\CodeProject\TargaReader\TargaReader\bin\Release\TargaImage.pdb
+C:\Users\Paloma\Documents\CodeProject\TargaReader\TargaReader\obj\Release\TargaImage.Resource1.resources
+C:\Users\Paloma\Documents\CodeProject\TargaReader\TargaReader\obj\Release\TargaImage.csproj.GenerateResource.Cache
+C:\Users\Paloma\Documents\CodeProject\TargaReader\TargaReader\obj\Release\TargaImage.dll
+C:\Users\Paloma\Documents\CodeProject\TargaReader\TargaReader\obj\Release\TargaImage.pdb
