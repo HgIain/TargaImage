@@ -38,6 +38,8 @@ using System.Drawing;
 using System.Drawing.Imaging;
 using System.Runtime.InteropServices;
 
+#pragma warning disable 8073
+
 namespace Paloma
 {
     internal static class TargaConstants
@@ -507,11 +509,11 @@ namespace Paloma
                             this.eTGAFormat = TGAFormat.ORIGINAL_TGA;
                         }
                     }
-                    catch ( Exception ex )
+                    catch ( Exception  )
                     {
                         // clear all 
                         this.ClearAll();
-                        throw ex;
+                        throw;
                     }
                 }
                 else
@@ -581,10 +583,10 @@ namespace Paloma
                         this.objTargaHeader.SetImageIDValue(System.Text.Encoding.ASCII.GetString(ImageIDValueBytes).TrimEnd('\0'));
                     }
                 }
-                catch (Exception ex)
+                catch (Exception )
                 {
                     this.ClearAll();
-                    throw ex;
+                    throw;
                 }
 
 
@@ -642,10 +644,10 @@ namespace Paloma
 
                                 }
                             }
-                            catch (Exception ex)
+                            catch (Exception )
                             {
                                 this.ClearAll();
-                                throw ex;
+                                throw;
                             }
 
                             
@@ -783,10 +785,10 @@ namespace Paloma
                             }
                         }
                     }
-                    catch (Exception ex)
+                    catch (Exception )
                     {
                         this.ClearAll();
-                        throw ex;
+                        throw;
                     }
                 }
             }
